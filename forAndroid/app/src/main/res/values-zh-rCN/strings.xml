@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">家庭账本</string>
+    <string name="state_unknow">未知</string>
+    <string name="state_localok">本地数据库正常</string>
+    <string name="state_localerr">！本地数据库异常！</string>
+</resources>
